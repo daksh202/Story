@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 It was the spring of hope, it was the winter of mountain.
+=======
+It was the spring of hope, it was the winter of repair.
+>>>>>>> alien-plot
